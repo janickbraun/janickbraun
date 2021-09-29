@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Janick
+- 👀 I’m interested in skating, football and of course in programming
+- 📫 How to reach me: Instagram: @_janick1_
