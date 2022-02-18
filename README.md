@@ -1,3 +1,5 @@
-- 👋 Hi, I’m Janick
-- 👀 I’m interested in skating🛹, football⚽ and of course in programming👨‍💻
+- 👋 Hi, I’m Janick and 15 years old
+- 👀 👨‍💻🛹🏂🏒🏄‍♂️⚽
+- 📖 Student in Gymnasium Penzberg
+- 👨‍💻 Fullstack Developer: Next.js
 - 📫 How to reach me: Instagram: @&#95;janick1&#95;
