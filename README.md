@@ -2,4 +2,4 @@
 - 👀 Interests: 👨‍💻🛹🏂🏒🏄‍♂️⚽
 - 📖 Student in [Gymnasium Penzberg](https://www.gymnasium-penzberg.de)
 - 👨‍💻 Fullstack Developer: Next.js
-- 📫 How to reach me: [@&#95;janick1&#95;](https://www.instagram.com/_janick1_)
+- 📫 How to reach me: [@&#95;janick1&#95;](https://www.instagram.com/jan1ck.braun)
