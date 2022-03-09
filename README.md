@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Janick and 15 years old
 - 👀 Interests: 👨‍💻🛹🏂🏒🏄‍♂️⚽
 - 📖 Student in [Gymnasium Penzberg](https://www.gymnasium-penzberg.de)
-- 👨‍💻 Fullstack Developer: Next.js
+- 👨‍💻 Fullstack Developer
 - 📫 How to reach me: [@jan1ck.braun](https://www.instagram.com/jan1ck.braun)
