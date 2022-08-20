@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Janick and I'm 16 years old
 - 👀 Interests: 👨‍💻🛹🏂🏄‍♂️🏒⚽ (Development, Skateboarding, Snowboarding, Wakeboarding, Ice Hockey, Soccer)
-- 📖 Student in [Gymnasium Penzberg](https://www.gymnasium-penzberg.de)
+- 📖 Student at [Gymnasium Penzberg](https://www.gymnasium-penzberg.de)
 - 👨‍💻 Fullstack Developer
 - 📫 How to reach me: [@jan1ck.braun](https://www.instagram.com/jan1ck.braun)
