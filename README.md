@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Janick and I'm 15 years old
+- 👋 Hi, my name is Janick and I'm 16 years old
 - 👀 Interests: 👨‍💻🛹🏂🏄‍♂️🏒⚽ (Development, Skateboarding, Snowboarding, Wakeboarding, Ice Hockey, Soccer)
 - 📖 Student in [Gymnasium Penzberg](https://www.gymnasium-penzberg.de)
 - 👨‍💻 Fullstack Developer
