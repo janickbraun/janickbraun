@@ -1,5 +1,6 @@
 - 👋 Name: Janick Braun
-- 👶 Age: 16
-- 📖 Student at [Gymnasium Penzberg](https://www.gymnasium-penzberg.de)
+- 👶 Age: 18
+- 📍 Location: Munich, Germany
+- 📖 Student at [FOM](https://www.fom.de/de/Hochschulzentrum/muenchen.html?locations=12966)
 - 👨‍💻 Fullstack Developer
-- 📫 How to reach me: [@jan1ck.braun](https://www.instagram.com/jan1ck.braun)
+- 📫 How to reach me: [Instagram](https://www.instagram.com/janick.brn) or [LinkedIn](https://www.linkedin.com/in/janickbraun/)
