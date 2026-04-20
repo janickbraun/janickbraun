@@ -1,6 +1,7 @@
 - 👋 Name: Janick Braun
-- 👶 Age: 18
+- 👶 Age: 19
 - 📍 Location: Munich, Germany
+- 🌐 My [Portfolio](https://portfolio.janickbraun.com)
 - 📖 Student at [FOM](https://www.fom.de/de/Hochschulzentrum/muenchen.html?locations=12966)
 - 🧑‍💼 Currently working at: Telekom
 - 👨‍💻 Fullstack Developer
